@@ -18,7 +18,7 @@
 
 - <b>There will be a NAT that will be responsible to reach my home network and hence will be able to access the internet</b>
 - <b>DNS and Active Directory was configured</b>
-- <b>Created 1000 users using powershell</b>
+- <b><a href="https://github.com/joshmadakor1/AD_PS">Created 1000 users using powershell </a></b>
 - <b>DHCP was configured that will help my client computers to connect to my domain server</b>
 
 <h2>Tips and trick that you might need:</h2>

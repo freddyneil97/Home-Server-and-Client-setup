@@ -2,7 +2,7 @@
 
 <h2><a href="https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0">This is a Replication of Josh Madakor's tutorial </a></h2>
 
-<h2>👨‍💻 Things you will need:</h2>
+<h2>Things you will need:</h2>
 
 - <b>Choose the right server of your choice, in my case I choose Windows Server 2022</b>
 - <b>Choose a desirable client, in my case I choose Windows 11</b>
